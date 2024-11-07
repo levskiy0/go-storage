@@ -1,10 +1,9 @@
-package filesystem
+package go_storage
 
 import (
 	"fmt"
+	filesystem "github.com/owles/go-storage/contract"
 	"sync"
-
-	"github.com/owles/go-storage/contract"
 )
 
 type Storage struct {

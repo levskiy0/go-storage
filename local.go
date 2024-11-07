@@ -1,9 +1,9 @@
-package filesystem
+package go_storage
 
 import (
 	"context"
 	"fmt"
-	"github.com/owles/go-storage/contract"
+	filesystem "github.com/owles/go-storage/contract"
 	"os"
 	"path/filepath"
 	"strings"

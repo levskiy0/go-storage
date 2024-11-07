@@ -1,4 +1,4 @@
-package filesystem
+package go_storage
 
 import (
 	filesystem "github.com/owles/go-storage/contract"

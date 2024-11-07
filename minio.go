@@ -1,10 +1,10 @@
-package filesystem
+package go_storage
 
 import (
 	"context"
 	"fmt"
 	"github.com/minio/minio-go/v7"
-	"github.com/owles/go-storage/contract"
+	filesystem "github.com/owles/go-storage/contract"
 	"github.com/owles/go-storage/file"
 	"io"
 	"net/url"
