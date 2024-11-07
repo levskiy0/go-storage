@@ -4,7 +4,7 @@ Fork from [Goravel](https://github.com/goravel/framework) for single use by nece
 
 - Local Storage
 - Minio
-- s3 (will be soon)
+- s3
 
 ### Install
 
