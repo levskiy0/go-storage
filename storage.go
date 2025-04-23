@@ -2,7 +2,7 @@ package go_storage
 
 import (
 	"fmt"
-	filesystem "github.com/owles/go-storage/contract"
+	filesystem "github.com/levskiy0/go-storage/contract"
 	"sync"
 )
 

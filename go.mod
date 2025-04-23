@@ -1,4 +1,4 @@
-module github.com/owles/go-storage
+module github.com/levskiy0/go-storage
 
 go 1.23.1
 

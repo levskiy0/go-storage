@@ -3,13 +3,13 @@ package go_storage
 import (
 	"context"
 	"fmt"
-	filesystem "github.com/owles/go-storage/contract"
+	filesystem "github.com/levskiy0/go-storage/contract"
 	"os"
 	"path/filepath"
 	"strings"
 	"time"
 
-	supportfile "github.com/owles/go-storage/file"
+	supportfile "github.com/levskiy0/go-storage/file"
 )
 
 type LocalConfig struct {

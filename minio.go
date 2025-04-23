@@ -3,9 +3,9 @@ package go_storage
 import (
 	"context"
 	"fmt"
+	filesystem "github.com/levskiy0/go-storage/contract"
+	"github.com/levskiy0/go-storage/file"
 	"github.com/minio/minio-go/v7"
-	filesystem "github.com/owles/go-storage/contract"
-	"github.com/owles/go-storage/file"
 	"io"
 	"net/url"
 	"os"

@@ -15,7 +15,7 @@ go get guthub.com/levskiy0/go-storage
 ### Usage
 
 ```go 
-import "github.com/owles/go-storage"
+import "github.com/levskiy0/go-storage"
 
 FS().
     AddDriver("local", NewLocal(LocalConfig{

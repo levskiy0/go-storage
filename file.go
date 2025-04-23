@@ -1,8 +1,8 @@
 package go_storage
 
 import (
-	filesystem "github.com/owles/go-storage/contract"
-	supportfile "github.com/owles/go-storage/file"
+	filesystem "github.com/levskiy0/go-storage/contract"
+	supportfile "github.com/levskiy0/go-storage/file"
 
 	"fmt"
 	"io"

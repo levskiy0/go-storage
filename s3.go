@@ -3,8 +3,8 @@ package go_storage
 import (
 	"context"
 	"fmt"
-	filesystem "github.com/owles/go-storage/contract"
-	"github.com/owles/go-storage/file"
+	filesystem "github.com/levskiy0/go-storage/contract"
+	"github.com/levskiy0/go-storage/file"
 	"io"
 	"os"
 	"path"
